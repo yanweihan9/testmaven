@@ -31,7 +31,7 @@ public class CollectorIntroduce {
         System.out.println(collect);
     }
 
-    //测试一下提交
+    //测试一下提交看看看
     private Map<String, List<Apple>> getMap(List<Apple> apples) {
         Map<String, List<Apple>> map = Maps.newHashMap();
         for (Apple apple : apples) {
